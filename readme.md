@@ -20,7 +20,7 @@ Soy un programador de software altamente motivado y apasionado por la creación 
 
 ## Estudios y certificaciones
 + *Bachiller* <sub>Instutucion Educativa Promocion Social (Neiva-Huila)</sub>
-+ *Tecnico en Analizis y Desarrollo de Software*<sub>Sena ADSO</sub>
++ *Tecnico en Analisis y Desarrollo de Software*<sub>Sena ADSO</sub>
 
 ## Estudios en proceso
 + *Tegnologo en Analisis y Desarrollo de Software*<sub>Sena ADSO</sub>
