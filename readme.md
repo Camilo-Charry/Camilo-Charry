@@ -10,9 +10,14 @@ Soy un programador de software altamente motivado y apasionado por la creación 
 - [x] HTML
 - [X] CSS
 - [X] JavaScript
+- [X] TypeScript
 - [X] PHP
 - [X] Pythom
+- [X] C#
+- [X] REACT NATIVE
+- [X] Angular  
 - [X] Base de Datos MySQL
+- [X] Bases de Datos SQLSERVER
       
 ## Idiomas
 +  *Español:* lengua natal 
