@@ -15,7 +15,8 @@ Soy un programador de software altamente motivado y apasionado por la creación 
 - [X] Pythom
 - [X] C#
 - [X] REACT NATIVE
-- [X] Angular  
+- [X] Angular
+- [X] Fundamentos De Linux  
 - [X] Base de Datos MySQL
 - [X] Bases de Datos SQLSERVER
       
